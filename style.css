@@ -71,7 +71,8 @@ button {
 
 /* efeito aplicado quando o mouse passa sobre o botão */
 button:hover {
-    background-color: #1e4e8c; /* escurece a cor do botão ao passar o mouse */
+    background-color: 
+    #e5ec81; /* escurece a cor do botão ao passar o mouse */
     transform: scale(1.05); /* aumenta levemente o tamanho do botão */
 }
 
